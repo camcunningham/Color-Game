@@ -1,2 +1,3 @@
 # Color-Game
-A RGB Color guessing game
+
+A simple RGB color guessing game - created during the Udemy Web Development Bootcamp
